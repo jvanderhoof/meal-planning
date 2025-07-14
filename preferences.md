@@ -6,21 +6,28 @@
 
 ## Family Members
 
-### Adults (2)
+### Jessie
 #### Likes
 - [Add preferences here]
 
 #### Dislikes
 - [Add preferences here]
 
-### Teen (14)
+### Jason
 #### Likes
 - [Add preferences here]
 
 #### Dislikes
 - [Add preferences here]
 
-### Child (11)
+### Cole (14)
+#### Likes
+- [Add preferences here]
+
+#### Dislikes
+- [Add preferences here]
+
+### Beckett (11)
 #### Likes
 - [Add preferences here]
 
